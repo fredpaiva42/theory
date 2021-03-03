@@ -21,9 +21,9 @@ No término de cada módulo irei adicionar dentro de suas respectivas pastas tod
 [//]: # (Add the features of your project here:) 
 As mais recentes ferramentas utilizadas no LaunchBase: 
 
-- **Javascript** <img  width="20" height="20"  src="https://gitconnected.com/public/images/tutorials/svg/javascript.svg"> - 
-- **HTML5** <img  width="20" height="20"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png"> - 
-- **CSS** <img  width="20" height="20"  src="https://flanp.com/images/css.png"> - 
+- **Javascript** <img  width="20" height="20"  src="https://gitconnected.com/public/images/tutorials/svg/javascript.svg">
+- **HTML5** <img  width="20" height="20"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png">
+- **CSS** <img  width="20" height="20"  src="https://flanp.com/images/css.png"> 
 
 ## :open_file_folder:  Módulo 1:
 - Introdução a programação WEB
